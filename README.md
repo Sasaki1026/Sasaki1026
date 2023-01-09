@@ -13,6 +13,6 @@
 
 - 🔎 Searching for what I'm interested in now..
 
-<a href="https://github.com/pierre0210">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,ts,nodejs,react,py,nginx,redis,raspberrypi,arduino,linux,git,github,docker&perline=50" />
+<a href="https://github.com/Sasaki1026">
+  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,ts,nodejs,py,linux,git,github,docker&perline=50" />
 </a>
