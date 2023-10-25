@@ -9,7 +9,7 @@
 
 - 📝 My personal website ! (now closed) [https://sasaki1026.azurewebsites.net/](https://sasaki1026.azurewebsites.net/)
 
-- 📫 Contact Info: **Discord:** 411Ψ892#2372, **Email:** sasaki.iori.1026@gmail.com
+- 📫 Contact Info: **Discord:** Crontab#1026, **Email:** sasaki.iori.1026@gmail.com
 
 - 🔎 Searching for what I'm interested in now..
 
